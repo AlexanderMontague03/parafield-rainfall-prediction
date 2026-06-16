@@ -12,7 +12,7 @@ A key focus of the project was ensuring realistic model evaluation by implementi
 
 ## Dataset
 
-The dataset consists of daily weather observations collected at Parafield Airport by the Australian Bureau of Meteorology (BoM).
+The dataset consists of daily weather observations collected at Parafield Airport by the Australian Bureau of Meteorology (BoM) and is included in the `data/` directory of this repository.
 
 Variables include:
 
