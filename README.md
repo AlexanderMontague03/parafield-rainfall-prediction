@@ -95,7 +95,7 @@ The model achieved the strongest overall performance during model comparison whi
 
 ## Repository Contents
 
-* `parafield_rain_forecast.ipynb` — Complete analysis, modelling workflow, and results.
+* `parafield_rainfall_prediction.ipynb` — Complete analysis, modelling workflow, and results.
 * `README.md` — Project summary and key findings.
 
 ---
